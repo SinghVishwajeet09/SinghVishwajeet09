@@ -56,13 +56,7 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhvishwajeet09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhvishwajeet09&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhvishwajeet09&show_icons=true)
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=singhvishwajeet09&theme=tokyonight&hide_border=true" />
-</p>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhvishwajeet09&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
