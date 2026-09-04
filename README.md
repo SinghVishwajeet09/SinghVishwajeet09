@@ -63,4 +63,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=singhvishwajeet09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
 </p>
+# 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/singhvishwajeet09/singhvishwajeet09/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
