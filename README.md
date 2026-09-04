@@ -54,9 +54,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhvishwajeet09&show_icons=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=singhvishwajeet09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhvishwajeet09&layout=compact)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=singhvishwajeet09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
