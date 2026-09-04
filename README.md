@@ -34,7 +34,6 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/rjvishwa_09)
 
 # 💻 Tech Stack:
-# 💻 Tech Stack
 
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
